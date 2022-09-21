@@ -13,6 +13,7 @@
 //b. define a variable and give it a number value
 
     let myNum = 15;
+    //comment
 
 //c. define a variable and give it a boolean value
 
